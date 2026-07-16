@@ -1,26 +1,35 @@
-# AI & Data Science Study Notes — ESI-SBA 2024/2025
+# AI & Data Science — Study Notes
 
-> Curated revision notes and module summaries from the 4th-Year AI & Data Science Engineering program at ESI-SBA.
+ESI-SBA · AI & Data Science Engineering · 2024/2025
 
-## Modules
+## Overview
 
-| Module | File(s) | Key Topics |
-|--------|---------|------------|
-| High-Performance Computing (CHP) | `CHP/HPC_SUMMARY.pdf`, `CHP/chp.pdf`, `CHP/explanations.md`, `CHP/reference.md` | Parallel computing, MPI, OpenMP, GPU programming, performance analysis |
-| Modeling & Simulation (ModSim) | `ModSim.pdf` | System modeling, discrete/continuous simulation, Petri nets, queuing theory |
-| Natural Language Processing (NLP) | `NLP.pdf` | Text preprocessing, embeddings, sequence models, transformers |
-| Deep Learning | `dl.pdf` | Neural networks, CNNs, RNNs, attention mechanisms, training strategies |
-| System Design | `sd.pdf` | Software architecture, design patterns, scalability, distributed systems |
+Consolidated revision notes and module summaries from the 4th-year AI & Data Science Engineering curriculum at ESI-SBA.
 
-## Format
+## Contents
 
-- **PDF summaries** — Comprehensive module reviews and exam preparation notes
-- **Markdown** — Quick-reference cheat sheets and command references
+| Module | Files | Topics |
+|--------|-------|--------|
+| High-Performance Computing | HPC_SUMMARY.pdf, chp.pdf, explanations.md, reference.md | Parallel Computing, MPI, OpenMP, GPU Programming, Performance Analysis |
+| Modeling and Simulation | ModSim.pdf | System Modeling, Discrete/Continuous Simulation, Queuing Theory |
+| Natural Language Processing | NLP.pdf | NLP Summary |
+| Deep Learning | dl.pdf | Deep Learning Summary |
+| System Design | sd.pdf | Software Architecture, Design Patterns, Scalability |
 
-## Author
+## Repository Structure
 
-**Adem Toumi** — ESI-SBA, Engineering Degree in AI & Data Science
+```
+├── CHP/
+│   ├── HPC_SUMMARY.pdf
+│   ├── chp.pdf
+│   ├── explanations.md
+│   └── reference.md
+├── ModSim.pdf
+├── NLP.pdf
+├── dl.pdf
+└── sd.pdf
+```
 
-## License
+---
 
-MIT
+Adem Toumi — ESI-SBA, AI & Data Science Engineering, 2024/2025
